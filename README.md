@@ -15,12 +15,12 @@ Mocha & Chai to expand my back-end skills!
 
 ## How to reach me: 
 
-[<img src="images/github-logo.png" alt="github-logo" width="60" />](https://www.linkedin.com/in/claire-sayart/)
+&nbsp;[<img src="images/linkedin-logo.png" alt="github-logo" width="30" />](https://www.linkedin.com/in/claire-sayart/)
 
 ## My very-pink-portfolio:
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;[<img src="images/pink-portfolio.png" alt="pink-logo" width="30" />](https://www.clairesayart.fr/)
+&nbsp;[<img src="images/pink-portfolio.png" alt="pink-logo" width="30" />](https://www.clairesayart.fr/)
 
 
 
