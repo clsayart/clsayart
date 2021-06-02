@@ -17,7 +17,9 @@ Mocha & Chai to expand my back-end skills!
 
 ## How to reach me: 
 
-LinkedIn [here](https://www.linkedin.com/in/claire-sayart/)
+![](https://res.cloudinary.com/dyhiaws3n/image/upload/v1622639343/14-512_i8kdhp.png) 
+
+[here](https://www.linkedin.com/in/claire-sayart/)
 
 My very-pink-portfolio [here](https://www.clairesayart.fr/)
 
